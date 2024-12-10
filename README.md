@@ -1,1 +1,1 @@
-# java-openschool-starter
+dependency for https://github.com/rookie86/java-openschool-aop
